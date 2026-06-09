@@ -134,12 +134,6 @@ This project emphasizes practical usage of pretrained LLMs for real-world busine
 It demonstrates how modern AI systems can be leveraged without heavy training or infrastructure requirements.
 </p>
 
-<hr>
-
-<h2>Shamrose Khan</h2>
-<p>
-Internship Project – AI / Machine Learning
-</p>
 
 </body>
 </html>
